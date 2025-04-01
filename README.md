@@ -17,7 +17,7 @@ Soy estudiante del **Grado Superior de Desarrollo de Aplicaciones Web (DAW) - 1�
 
 ## 📊 Estadísticas de GitHub
 
-![Daniel-goga-GIT's Stats](https://github-readme-stats.vercel.app/api?username=Daniel-goga-GIT&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Daniel-goga-GIT's Stats](https://github-readme-stats.vercel.app/api?username=Daniel-goga-GIT&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
