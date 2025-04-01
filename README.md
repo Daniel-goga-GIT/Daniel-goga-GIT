@@ -1,4 +1,4 @@
-# Hola, soy Daniel González! 👋
+# Hola, soy Daniel González García! 👋
 
 ## 🚀 Sobre mí
 
@@ -17,7 +17,7 @@ Soy estudiante del **Grado Superior de Desarrollo de Aplicaciones Web (DAW) - 1�
 
 ## 📊 Estadísticas de GitHub
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gogagogag&show_icons=true&theme=radical)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-goga-GIT&show_icons=true&theme=radical)
 
 ---
 
